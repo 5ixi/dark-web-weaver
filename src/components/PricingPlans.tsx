@@ -26,7 +26,7 @@ const PricingPlans = () => {
   const plans: Plan[] = [
     {
       name: "Basic",
-      price: "£20",
+      price: "$499",
       description: "Perfect for small businesses just getting started",
       features: [
         { name: "5 Page Website", included: true },
@@ -42,7 +42,7 @@ const PricingPlans = () => {
     },
     {
       name: "Professional",
-      price: "£30",
+      price: "$999",
       description: "Ideal for established businesses looking to grow",
       features: [
         { name: "10 Page Website", included: true },
@@ -59,7 +59,7 @@ const PricingPlans = () => {
     },
     {
       name: "Premium",
-      price: "£40",
+      price: "$1,999",
       description: "For businesses that need a comprehensive online solution",
       features: [
         { name: "Unlimited Pages", included: true },
