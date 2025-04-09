@@ -73,7 +73,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-gray-800 pt-6 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-gray-500 text-sm">© 2025 WebCraft. All rights reserved.</p>
+          <p className="text-gray-500 text-sm">© 2025 Viper, Made by logan btw so you can say its not mine owen.</p>
           <div className="flex gap-4 mt-4 md:mt-0">
             <a href="#" className="text-gray-400 hover:text-purple-400 transition-colors">Privacy Policy</a>
             <a href="#" className="text-gray-400 hover:text-purple-400 transition-colors">Terms of Service</a>
